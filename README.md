@@ -1,5 +1,3 @@
-# Code-en-Clair
-
 # Apprends la Programmation 📚
 
 Bienvenue sur notre repo officiel TikTok 🚀
