@@ -15,8 +15,7 @@ Ici tu trouveras :
 
 ## 📂 Organisation
 - /Python : Scripts et tutos Python
-- /Web : HTML/CSS pour le web
-- /C : Base en langage C
-- /Exercices : Entraînement et corrections
+- /Web : Soon
+- /C : Soon
 
 ✅ Suis-nous sur TikTok 👉 [Lien]
