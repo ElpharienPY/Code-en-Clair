@@ -12,8 +12,10 @@ Ici tu trouveras :
 - C
 
 ## 📂 Organisation
-- /Python : Scripts et tutos Python
+- /Python : Scripts et tutos Python. Retrouve aussi quelques cours et exercices !
 - /Web : Soon
 - /C : Soon
 
-✅ Suis-nous sur TikTok 👉 [Lien]
+## 
+
+✅ Suis-nous sur TikTok 👉 [[](https://www.tiktok.com/@codeenclair6)]
