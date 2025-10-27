@@ -7,4 +7,4 @@ Ici, vous trouverez :
 - 🎯 Des **exercices pratiques** pour débuter
 - 🎥 Les **scripts associés aux vidéos TikTok**
 
-➡️ Objectif : **rendre la programmation simple et accessible à tous.*
+➡️ Objectif : **rendre la programmation simple et accessible à tous.**
